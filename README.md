@@ -31,7 +31,7 @@
 
 ┌──┤ 42 PROJECTS ├───────▰▰▰
 │
-├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/Piscine-2021">Piscine 2021</a>
+├─◈ <a href="https://github.com/ft-killua/1337/tree/master/Piscine-2021">Piscine 2022</a>
 ├─◈ <a href="https://github.com/ft-killua/libft">libft</a>
 │
 └───────────────────────────────▰▰▰
