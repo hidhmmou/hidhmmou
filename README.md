@@ -1,16 +1,22 @@
-### Hi there 👋
+</p>
+<p align="center">  
+<img src ="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif">
+</p>
 
-<!--
-**ft-killua/ft-killua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## root:~$ whoami
+>  Computer Science student at [1337](https://1337.ma/en/) \
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/hidhmmou" alt="hidhmmou's 42 stats" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<pre>
+
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ Computer Science Student at 1337 Ben guerir
+├─▣ From Guelmim Morocco
+│
+└───────────────────────────────▰▰▰
