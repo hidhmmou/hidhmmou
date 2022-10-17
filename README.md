@@ -49,6 +49,6 @@
 		<img alt="Twitter Profile" src="https://badgen.net/badge/icon/twitter?icon=twitter&label" />
 	</a>
 		<span> * </span>
-	<a href="https://https://discord.com/users/!𝐤𝐢𝐥𝐥𝐮𝐚#5099">
+	<a href="https://https://discord.com/users/! 𝐤𝐢𝐥𝐥𝐮𝐚#5099">
 		<img alt="Twitter Profile" src="https://badgen.net/badge/icon/discord?icon=discord&label" />
 	</a>
