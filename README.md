@@ -7,7 +7,7 @@
 >  Computer Science student at [1337](https://1337.ma/en/)
 
 <p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/hidhmmou" alt="hidhmmou's 42 stats" /></a>
+<a href="https://github.com/ft-killua"><img src="https://badge.mediaplus.ma/colorfulwaves/hidhmmou" alt="hidhmmou's 42 stats" /></a>
 </p>
 
 
