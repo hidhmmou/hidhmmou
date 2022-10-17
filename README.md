@@ -20,3 +20,33 @@
 ├─▣ From Guelmim Morocco
 │
 └───────────────────────────────▰▰▰
+
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="https://www.linkedin.com/in/achraf-elkhnissi">LinkedIn</a>
+├─◈ <a href="https://twitter.com/suprivada">Twitter</a>
+├─◈ <a href="https://www.instagram.com/su_privada">Instagram</a>
+├─◈ Discord: ashraf#2244
+│
+└───────────────────────────────▰▰▰
+
+┌──┤ 42 PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/Piscine-2021">Piscine 2021</a>
+├─◈ <a href="https://github.com/ft-killua/libft">libft</a>
+│
+└───────────────────────────────▰▰▰
+</pre>
+
+--------------
+
+<p align="center">
+	<a href="mailto:hassanidhmmou.edu@gmail.com">
+		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:achraf.elkhnissi@gmail.com" />
+	</a>
+	<span> * </span>
+	<a href="https://twitter.com/Has1_idh">
+		<img alt="Twitter Profile" src="https://badgen.net/badge/icon/twitter?icon=twitter&label" />
+	</a>
+		<span> * </span>
+	<a href="https://https://discord.com/users/! 𝐤𝐢𝐥𝐥𝐮𝐚#5099">
