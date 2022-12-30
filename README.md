@@ -37,7 +37,7 @@
 ├─◈ <a href="https://github.com/ft-killua/ft_printf">ft_printf</a>
 ├─◈ <a href="https://github.com/ft-killua/push_swap">push_swap</a>
 ├─◈ <a href="https://github.com/ft-killua/so_long">so_long</a>
-├─◈ <a href="https://github.com/ft-killua/pipex">pipex</a>
+├─◈ <a href="https://github.com/ft-killua/pipex">pipex</a> #this repo is private
 │
 └───────────────────────────────▰▰▰
 </pre>
