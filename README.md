@@ -39,6 +39,7 @@
 ├─◈ <a href="https://github.com/ft-killua/so_long">so_long</a>
 ├─◈ <a href="https://github.com/ft-killua/pipex">pipex</a>
 ├─◈ <a href="https://github.com/hidhmmou/philosophers">philosohers</a> #private
+├─◈ <a href="https://github.com/hidhmmou/minishell">minishell</a> #private
 │
 └───────────────────────────────▰▰▰
 </pre>
