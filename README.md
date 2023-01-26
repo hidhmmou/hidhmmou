@@ -17,7 +17,7 @@
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ Computer Science Student at 1337 Ben guerir
-├─▣ From Guelmim Morocco
+├─▣ From Morocco
 │
 └───────────────────────────────▰▰▰
 
