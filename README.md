@@ -47,19 +47,18 @@
 <a href="https://github.com/ft-killua/libft">
 	<img alt="libft" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/libftm.png" />
 </a>
-
-<a href="https://github.com/ft-killua/Born2beroot">
-	<img alt="hidhmmou push_swap" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/born2berootm.png" />
-</a>
 <a href="https://github.com/ft-killua/ft_printf">
 	<img alt="hidhmmou push_swap" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/ft_printfm.png" />
 </a>
 <a href="https://github.com/ft-killua/get_next_line">
 	<img alt="hidhmmou push_swap" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/get_next_linem.png" />
 </a>
+<a href="https://github.com/ft-killua/Born2beroot">
+	<img alt="hidhmmou push_swap" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/born2berootm.png" />
+</a>
 <br>
-<a href="https://github.com/ft-killua/minitalk">
-	<img alt="hidhmmou minitalk" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/pipexm.png" />
+<a href="https://github.com/ft-killua/pipex">
+	<img alt="hidhmmou pipex" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/pipexm.png" />
 </a>
 <a href="https://github.com/ft-killua/so_long">
 	<img alt="hidhmmou so_long" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/so_longm.png" />
