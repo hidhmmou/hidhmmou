@@ -1,14 +1,10 @@
-## Hi there 👋
-
-### Thanks for visiting! 😄
-
-My name is Hassan. I'm 42 student.
+</p>
+<p align="center">  
+<img src ="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif">
+</p>
 
 * 🎓  Graduated from e.s.t (Higher School of Technologies)
-* I'm currently studying at [1337 morroco](https://www.1337.ma/) 👨🏻‍💻.
-
-## root:~$ whoami
->  Computer Science student at [1337](https://1337.ma/en/)
+* I'm currently studying at [1337 morroco](https://www.1337.ma/)👨🏻‍💻.
 
 <p align="center">
 <a href="https://github.com/ft-killua"><img src="https://badge.mediaplus.ma/colorfulwaves/hidhmmou" alt="hidhmmou's 42 stats" /></a>
@@ -91,7 +87,7 @@ My name is Hassan. I'm 42 student.
 | [get_next_line]   | C        | 125% | Read a single line from a file descriptor, can be used in a loop.       |
 | [ft_printf]       | C        | 100% | Recode the standard C library function, printf.                         |
 | [born2beroot]     | Linux    | 100% | Create a virtual machine to host a Debian server.                       |
-| [minitalk]        | C        | 125% | Handling pipe of commands like a single command.       			        |
+| [pipex]           | C        | 125% | Handling pipe of commands like a single command.       		        |
 | [so_long]         | C        | 125% | Create a 2D graphic game like classic 90's era.                         |
 | [push_swap]       | C        | 125% | Sort a list of random integers in the least amount of moves possible.   |
 | [philosophers]    | C        | 125% | Solve the dining philosophers problem with semaphores.                  |
