@@ -45,7 +45,7 @@
 ### 42 Projects 💻
 
 <a href="https://github.com/ft-killua/libft">
-	<img alt="hidhmmou push_swap" src="https://raw.githubusercontent.com/hidhmmou/hidhmmou/tree/main/pics/libftm.png" />
+	<img alt="libft" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/born2berootm.png" />
 </a>
 --------------
 
