@@ -5,7 +5,7 @@
 My name is Hassan. I'm 42 student.
 
 * 🎓  Graduated from e.s.t (Higher School of Technologies)
-* I'm currently studying at 👨🏻‍💻 [1337 morroco](https://www.1337.ma/).
+* I'm currently studying at [1337 morroco](https://www.1337.ma/) 👨🏻‍💻.
 
 ## root:~$ whoami
 >  Computer Science student at [1337](https://1337.ma/en/)
