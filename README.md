@@ -42,12 +42,67 @@
 │
 └───────────────────────────────▰▰▰
 </pre>
-### 42 Projects 💻
+### my 42 Projects 💻
 
 <a href="https://github.com/ft-killua/libft">
 	<img alt="libft" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/libftm.png" />
 </a>
---------------
+
+<a href="https://github.com/ft-killua/Born2beroot">
+	<img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/born2berootm.png" />
+</a>
+<a href="https://github.com/ft-killua/ft_printf">
+	<img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/ft_printfm.png" />
+</a>
+<a href="https://github.com/ft-killua/get_next_line">
+	<img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/get_next_linem.png" />
+</a>
+<br>
+<a href="https://github.com/ft-killua/minitalk">
+	<img alt="viruskizz minitalk" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/minitalkm.png" />
+</a>
+<a href="https://github.com/ft-killua/so_long">
+	<img alt="viruskizz so_long" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/so_longm.png" />
+</a>
+<a href="https://github.com/ft-killua/push_swap">
+	<img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/push_swapm.png" />
+</a>
+<br>
+<a href="https://github.com/ft-killua/philosophers">
+	<img alt="viruskizz philosophers" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/philosophersm.png" />
+</a>
+<a href="https://github.com/ft-killua/42bangkok_minishell">
+	<img alt="viruskizz minishell" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/minishellm.png" />
+</a>
+<a href="https://github.com/ft-killua/netpractice">
+	<img alt="viruskizz netpractice" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/netpracticee.png" />
+</a>
+<a href="https://github.com/ft-killua/cpp_module">
+	<img alt="viruskizz cpp module" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/cppe.png" />
+</a>
+<br>
+
+<details>
+<summary>More information about these 42 bangkok projects</summary>
+
+| Rank | Project           | Language | Grade| Description                                                             |
+|:----:|-------------------|----------|------|-------------------------------------------------------------------------|
+|  0   | [libft]           | C        | 125% | Create a library of basic functions.                                    |
+|  1   | [get_next_line]   | C        | 125% | Read a single line from a file descriptor, can be used in a loop.       |
+|  1   | [ft_printf]       | C        | 125% | Recode the standard C library function, printf.                         |
+|  1   | [born2beroot]     | Linux    | 125% | Create a virtual machine to host a Debian server.                       |
+|  2   | [minitalk]        | C        | 125% | create communication between 2 programe, server and client.             |
+|  2   | [so_long]         | C        | 125% | Create a 2D graphic game like classic 90's era.                         |
+|  2   | [push_swap]       | C        | 125% | Sort a list of random integers in the least amount of moves possible.   |
+|  3   | [philosophers]    | C        | 125% | Solve the dining philosophers problem with semaphores.                  |
+|  3   | [minishell]       | C        | 125% | Create a minitature shell program. Team project.                        |
+|  4   | [net_practice]    | N/A      | 100% | Solve IP addressing and network issues in a training interface.         |
+|  4   | [Cpp_Modules]     | C++      | 100% | Create a series of small C++ programs.                                  |
+|  4   | [MiniRT]          | C        | WIP  |                                                                         |
+
+</details>
+
+<br>
 
 <p align="center">
 	<a href="mailto:hassanidhmmou.edu@gmail.com">
