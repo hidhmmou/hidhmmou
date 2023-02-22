@@ -49,37 +49,28 @@
 </a>
 
 <a href="https://github.com/ft-killua/Born2beroot">
-	<img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/born2berootm.png" />
+	<img alt="hidhmmou push_swap" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/born2berootm.png" />
 </a>
 <a href="https://github.com/ft-killua/ft_printf">
-	<img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/ft_printfm.png" />
+	<img alt="hidhmmou push_swap" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/ft_printfm.png" />
 </a>
 <a href="https://github.com/ft-killua/get_next_line">
-	<img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/get_next_linem.png" />
+	<img alt="hidhmmou push_swap" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/get_next_linem.png" />
 </a>
 <br>
 <a href="https://github.com/ft-killua/minitalk">
-	<img alt="viruskizz minitalk" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/minitalkm.png" />
+	<img alt="hidhmmou minitalk" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/minitalkm.png" />
 </a>
 <a href="https://github.com/ft-killua/so_long">
-	<img alt="viruskizz so_long" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/so_longm.png" />
+	<img alt="hidhmmou so_long" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/so_longm.png" />
 </a>
 <a href="https://github.com/ft-killua/push_swap">
-	<img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/push_swapm.png" />
+	<img alt="hidhmmou push_swap" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/push_swapm.png" />
 </a>
 <br>
 <a href="https://github.com/ft-killua/philosophers">
-	<img alt="viruskizz philosophers" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/philosophersm.png" />
-</a>
-<a href="https://github.com/ft-killua/42bangkok_minishell">
-	<img alt="viruskizz minishell" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/minishellm.png" />
-</a>
-<a href="https://github.com/ft-killua/netpractice">
-	<img alt="viruskizz netpractice" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/netpracticee.png" />
-</a>
-<a href="https://github.com/ft-killua/cpp_module">
-	<img alt="viruskizz cpp module" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/cppe.png" />
-</a>
+	<img alt="hidhmmou philosophers" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/philosophersm.png" />
+
 <br>
 
 <details>
