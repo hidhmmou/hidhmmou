@@ -1,7 +1,12 @@
 </p>
+## Hi there 👋
 
-## root:~$ whoami
->  Computer Science student at [1337](https://1337.ma/en/)
+### Thanks for visiting! 😄
+
+My name is Hassan. I'm 42 student.
+
+* 🎓  Graduated from e.s.t (Higher School of Technologies)
+* I'm currently studying at 👨🏻‍💻 [1337 morroco](https://www.1337.ma/).
 
 <p align="center">
 <a href="https://github.com/ft-killua"><img src="https://badge.mediaplus.ma/colorfulwaves/hidhmmou" alt="hidhmmou's 42 stats" /></a>
