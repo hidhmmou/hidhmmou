@@ -66,7 +66,7 @@
 <a href="https://github.com/ft-killua/push_swap">
 	<img alt="hidhmmou push_swap" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/push_swapm.png" />
 </a>
-<a href="https://github.com/ft-killua/philosophers">
+<a href="https://github.com/hidhmmou/philosophers">
 	<img alt="hidhmmou philosophers" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/philosophersm.png" />
 
 <br>
