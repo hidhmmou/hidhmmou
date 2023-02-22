@@ -1,7 +1,11 @@
-</p>
-<p align="center">  
-<img src ="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif">
-</p>
+## Hi there 👋
+
+### Thanks for visiting! 😄
+
+My name is Hassan. I'm 42 student.
+
+* 🎓  Graduated from e.s.t (Higher School of Technologies)
+* I'm currently studying at 👨🏻‍💻 [1337 morroco](https://www.1337.ma/).
 
 ## root:~$ whoami
 >  Computer Science student at [1337](https://1337.ma/en/)
