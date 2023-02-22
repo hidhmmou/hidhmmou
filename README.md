@@ -34,6 +34,7 @@
 ├─◈ <a href="https://github.com/ft-killua/1337/tree/main/piscine-2022">Piscine 2022</a>
 ├─◈ <a href="https://github.com/ft-killua/libft">libft</a>
 ├─◈ <a href="https://github.com/ft-killua/get_next_line">get_next_line</a>
+├─◈ <a href="https://github.com/ft-killua/borntoberoot">borntoberoot</a>
 ├─◈ <a href="https://github.com/ft-killua/ft_printf">ft_printf</a>
 ├─◈ <a href="https://github.com/ft-killua/push_swap">push_swap</a>
 ├─◈ <a href="https://github.com/ft-killua/so_long">so_long</a>
@@ -56,7 +57,7 @@
 <a href="https://github.com/ft-killua/get_next_line">
 	<img alt="hidhmmou push_swap" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/get_next_linem.png" />
 </a>
-<a href="https://github.com/ft-killua/Born2beroot">
+<a href="https://github.com/hidhmmou/Born2beroot">
 	<img alt="hidhmmou push_swap" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/born2berootm.png" />
 </a>
 <br>
