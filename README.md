@@ -68,7 +68,7 @@
 </a>
 <a href="https://github.com/hidhmmou/philosophers">
 	<img alt="hidhmmou philosophers" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/philosophersm.png" />
-
+</a>
 <br>
 
 <details>
