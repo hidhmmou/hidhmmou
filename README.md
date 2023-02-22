@@ -59,7 +59,7 @@
 </a>
 <br>
 <a href="https://github.com/ft-killua/minitalk">
-	<img alt="hidhmmou minitalk" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/minitalkm.png" />
+	<img alt="hidhmmou minitalk" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/pipexm.png" />
 </a>
 <a href="https://github.com/ft-killua/so_long">
 	<img alt="hidhmmou so_long" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/so_longm.png" />
