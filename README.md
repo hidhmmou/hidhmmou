@@ -73,7 +73,7 @@
 <br>
 
 <details>
-<summary>More information about these 42 bangkok projects</summary>
+<summary>More information about these 42 projects</summary>
 
 | Project           | Language | Grade| Description                                                             |
 |-------------------|----------|------|-------------------------------------------------------------------------|
