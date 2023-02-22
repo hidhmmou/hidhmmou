@@ -88,7 +88,7 @@ My name is Hassan. I'm 42 student.
 | [get_next_line]   | C        | 125% | Read a single line from a file descriptor, can be used in a loop.       |
 | [ft_printf]       | C        | 100% | Recode the standard C library function, printf.                         |
 | [born2beroot]     | Linux    | 100% | Create a virtual machine to host a Debian server.                       |
-| [minitalk]        | C        | 125% | Handling pipe of commands like a single command.       			        |
+| [pipex]           | C        | 125% | Handling pipe of commands like a single command.       		        |
 | [so_long]         | C        | 125% | Create a 2D graphic game like classic 90's era.                         |
 | [push_swap]       | C        | 125% | Sort a list of random integers in the least amount of moves possible.   |
 | [philosophers]    | C        | 125% | Solve the dining philosophers problem with semaphores.                  |
