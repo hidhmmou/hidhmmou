@@ -49,6 +49,7 @@
 <a href="https://github.com/ft-killua/libft">
 	<img alt="libft" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/libftm.png" />
 </a>
+<br>
 <a href="https://github.com/ft-killua/ft_printf">
 	<img alt="hidhmmou push_swap" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/ft_printfm.png" />
 </a>
@@ -68,8 +69,12 @@
 <a href="https://github.com/ft-killua/push_swap">
 	<img alt="hidhmmou push_swap" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/push_swapm.png" />
 </a>
+<br>
 <a href="https://github.com/hidhmmou/philosophers">
 	<img alt="hidhmmou philosophers" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/philosophersm.png" />
+</a>
+<a href="https://github.com/hidhmmou/minishell">
+	<img alt="hidhmmou philosophers" src="https://github.com/hidhmmou/hidhmmou/blob/main/pics/minishellm.png" />
 </a>
 <br>
 
