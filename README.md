@@ -1,16 +1,9 @@
-</p>
-<p align="center">  
-<img src ="https://cdn.dribbble.com/users/2495095/screenshots/6022014/media/bde6ebc855e312547d5f791f427de779.gif">
-</p>
-
 * 🎓  Graduated from e.s.t (Higher School of Technologies)
 * I'm currently studying at [1337 morroco](https://www.1337.ma/)👨🏻‍💻.
 
 <p align="center">
 <a href="https://github.com/ft-killua"><img src="https://badge.mediaplus.ma/colorfulwaves/hidhmmou" alt="hidhmmou's 42 stats" /></a>
 </p>
-
-
 
 <pre>
 
@@ -34,7 +27,7 @@
 ├─◈ <a href="https://github.com/ft-killua/1337/tree/main/piscine-2022">Piscine 2022</a>
 ├─◈ <a href="https://github.com/ft-killua/libft">libft</a>
 ├─◈ <a href="https://github.com/ft-killua/get_next_line">get_next_line</a>
-├─◈ <a href="https://github.com/ft-killua/borntoberoot">borntoberoot</a>
+├─◈ <a href="https://github.com/ft-killua/born2beroot">borntoberoot</a>
 ├─◈ <a href="https://github.com/ft-killua/ft_printf">ft_printf</a>
 ├─◈ <a href="https://github.com/ft-killua/push_swap">push_swap</a>
 ├─◈ <a href="https://github.com/ft-killua/so_long">so_long</a>
