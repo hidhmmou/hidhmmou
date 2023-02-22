@@ -44,10 +44,8 @@
 </pre>
 ### 42 Bangkok Projects 💻
 
-<img alt="Enter orbit" src="https://raw.githubusercontent.com/hidhmmou/main/42_badges/phase_onee.png" />
-<br>
-<a href="https://github.com/viruskizz/42bangkok-libft">
-	<img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/libftm.png" />
+<a href="https://github.com/ft-killua/libft">
+	<img alt="viruskizz push_swap" src="https://github.com/hidhmmou/hidhmmou/tree/main/pics/libftm.png" />
 </a>
 <a href="https://github.com/viruskizz/42bangkok-Born2beroot">
 	<img alt="viruskizz push_swap" src="https://raw.githubusercontent.com/viruskizz/viruskizz/main/42_badges/born2berootm.png" />
