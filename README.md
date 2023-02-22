@@ -81,20 +81,18 @@
 <details>
 <summary>More information about these 42 bangkok projects</summary>
 
-| Rank | Project           | Language | Grade| Description                                                             |
-|:----:|-------------------|----------|------|-------------------------------------------------------------------------|
-|  0   | [libft]           | C        | 125% | Create a library of basic functions.                                    |
-|  1   | [get_next_line]   | C        | 125% | Read a single line from a file descriptor, can be used in a loop.       |
-|  1   | [ft_printf]       | C        | 125% | Recode the standard C library function, printf.                         |
-|  1   | [born2beroot]     | Linux    | 125% | Create a virtual machine to host a Debian server.                       |
-|  2   | [minitalk]        | C        | 125% | create communication between 2 programe, server and client.             |
-|  2   | [so_long]         | C        | 125% | Create a 2D graphic game like classic 90's era.                         |
-|  2   | [push_swap]       | C        | 125% | Sort a list of random integers in the least amount of moves possible.   |
-|  3   | [philosophers]    | C        | 125% | Solve the dining philosophers problem with semaphores.                  |
-|  3   | [minishell]       | C        | 125% | Create a minitature shell program. Team project.                        |
-|  4   | [net_practice]    | N/A      | 100% | Solve IP addressing and network issues in a training interface.         |
-|  4   | [Cpp_Modules]     | C++      | 100% | Create a series of small C++ programs.                                  |
-|  4   | [MiniRT]          | C        | WIP  |                                                                         |
+| Project           | Language | Grade| Description                                                             |
+|-------------------|----------|------|-------------------------------------------------------------------------|
+| [libft]           | C        | 125% | Create a library of basic functions.                                    |
+| [get_next_line]   | C        | 125% | Read a single line from a file descriptor, can be used in a loop.       |
+| [ft_printf]       | C        | 100% | Recode the standard C library function, printf.                         |
+| [born2beroot]     | Linux    | 100% | Create a virtual machine to host a Debian server.                       |
+| [minitalk]        | C        | 125% | Handling pipe of commands like a single command.       			        |
+| [so_long]         | C        | 125% | Create a 2D graphic game like classic 90's era.                         |
+| [push_swap]       | C        | 125% | Sort a list of random integers in the least amount of moves possible.   |
+| [philosophers]    | C        | 125% | Solve the dining philosophers problem with semaphores.                  |
+| [minishell]       | C        | 100% | Create a minitature shell program. Team project.                        |
+| [net_practice]    | N/A      | ---- | Solve IP addressing and network issues in a training interface.         |
 
 </details>
 
