@@ -1,3 +1,7 @@
+</p>
+<p align="center">  
+<img src ="https://tenor.com/view/hehe-jake-giggle-gif-18585225">
+</p>
 * 🎓  Graduated from e.s.t (Higher School of Technologies)
 * I'm currently studying at [1337 morroco](https://www.1337.ma/)👨🏻‍💻.
 
