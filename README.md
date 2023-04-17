@@ -104,5 +104,6 @@
 	<a href="https://https://discord.com/users/! 𝐤𝐢𝐥𝐥𝐮𝐚#5099">
 		<img alt="Twitter Profile" src="https://badgen.net/badge/icon/discord?icon=discord&label" />
 	</a>
+	</p>
 ![](https://komarev.com/ghpvc/?username=hassan-idhmmououhya&style=for-the-badge)
 ![](https://hit.yhype.me/github/profile?user_id=115652156)
