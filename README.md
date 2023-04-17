@@ -87,13 +87,12 @@
 | [philosophers]    | C        | 125% | Solve the dining philosophers problem with semaphores.                  |
 | [minishell]       | C        | 100% | Create a minitature shell program. Team project.                        |
 | [net_practice]    | N/A      | ---- | Solve IP addressing and network issues in a training interface.         |
-
+| [cub3d]           | C        | 125% | The first project i rendered something in 3D.                           |
+![](https://komarev.com/ghpvc/?username=hassan-idhmmououhya&style=for-the-badge)
+![](https://hit.yhype.me/github/profile?user_id=115652156)
 </details>
 
 <br>
-	
-![](https://komarev.com/ghpvc/?username=hassan-idhmmououhya&style=for-the-badge)
-![](https://hit.yhype.me/github/profile?user_id=115652156)
 
 <p align="center">
 	<a href="mailto:hassanidhmmou.edu@gmail.com">
