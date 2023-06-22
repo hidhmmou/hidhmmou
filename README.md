@@ -87,7 +87,8 @@
 | [philosophers]    | C        | 125% | Solve the dining philosophers problem with semaphores.                  |
 | [minishell]       | C        | 100% | Create a minitature shell program. Team project.                        |
 | [cub3d]           | C        | 125% | Render 2D map into 3D vision using raycasting.                          |
-| [net_practice]    | N/A      | ---- | Solve IP addressing and network issues in a training interface.         |
+| [net_practice]    | N/A      | 100% | Solve IP addressing and network issues in a training interface.         |
+| [CPP 04]          | C++      | 100% | C++ programming      					                |
 	
 ![](https://komarev.com/ghpvc/?username=hassan-idhmmououhya&style=for-the-badge)
 ![](https://hit.yhype.me/github/profile?user_id=115652156)
